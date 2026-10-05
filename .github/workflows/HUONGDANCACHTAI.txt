@@ -1,0 +1,36 @@
+HƯỚNG DẪN SỬ DỤNG GRADEX ELITE
+================================
+
+I. CHẠY TRÊN WINDOWS
+1. Bấm đúp file GradeXElite_Windows.exe
+2. Nếu Windows Defender cảnh báo:
+   - Bấm "More info" → "Run anyway"
+   (Đây là cảnh báo bình thường của app Python)
+
+II. CHẠY TRÊN MAC
+Cách 1 (khuyên dùng):
+1. Kéo file GradeXElite_Mac.app vào thư mục Applications
+2. Lần đầu mở, Mac sẽ cảnh báo "app không xác định":
+   - Chuột phải vào app → chọn "Open"
+   - Hoặc vào System Settings → Privacy & Security
+   - Tìm dòng "GradeXElite was blocked" → "Open Anyway"
+3. Nhập mật khẩu Mac → OK
+
+Cách 2 (nếu app không chạy):
+1. Cài Python 3 tại python.org
+2. Mở Terminal, cd vào thư mục này
+3. Chạy: pip3 install -r requirements.txt
+4. Chạy: python3 GradeXElite.py
+
+III. LƯU Ý
+- Cần mạng Internet lần đầu để tải logo trường
+- File dữ liệu sinh viên tự động lưu
+- Mọi thao tác đều tự động lưu
+
+IV. THÔNG TIN NHÓM
+- Nhóm trưởng: Đỗ Thanh Phong
+- Thành viên: Trần Trung Đỉnh, Nguyễn Phước Đạt, Trần Minh Trí
+- Lớp: 26THXD1 - Ngành Tin học Xây dựng
+- GVHD: Nguyễn Thanh Hải
+- Trường ĐH Bách khoa - ĐH Đà Nẵng
+- Slogan: Xây cơ sở - Dựng tương lai
